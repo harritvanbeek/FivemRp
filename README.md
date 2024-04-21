@@ -1,5 +1,5 @@
 # gangLifeRp
-> You can find here all oure rules to play in ganglife!
+> You can find here all our rules to play in gang life!
 
 ## Discord Rules
 ## City Rules
