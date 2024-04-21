@@ -1,3 +1,9 @@
+<style>
+    li{
+        padding-bottom : 20px;
+    }
+</style>
+
 # gangLife Discord
 Discord Rules
 <ol>
