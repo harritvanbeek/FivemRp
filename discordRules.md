@@ -42,4 +42,4 @@ City Rules
   </li>
 </ol>
 
-<a href="https://discordapp.com/guidelines" target="_blank">Discord Community Guidelines/a>
+<a href="https://discordapp.com/guidelines" target="_blank">Discord Community Guidelines</a>
