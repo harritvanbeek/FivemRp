@@ -18,8 +18,15 @@
       then you contact each other in the city and not through Discord 
       conversation or whatever.  Not even to tell each other where you are.
       <br>
-
       If we notice this there is a warning about this, 
       at the 3rd warning you have a day ban, with the 3rd ban you get a full ban!
+      <br><br>
+  </li>
+
+  <li>
+  VDM (vehicle death match) is not allowed.
+When a player kills you with a vehicle for no reason in-game
+If we notice this there is a warning about this, 
+at the 3rd warning you have a day ban, with the 3rd ban you get a full ban!
   </li>
 </ol>
