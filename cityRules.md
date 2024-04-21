@@ -33,11 +33,22 @@
       <strong>RDM (Random death match) is not allowed.</strong><br>
       Means that someone randomly kills you, without any roleplay/ valid reason
       <br><br>
-      > for example<br>
+      > For Example<br>
       Mr Limbo randomly shoot you in the face with his Desert Eagle or<br>
       an another kind of gun. Without any roleplay and/or reason behind it
 
       If we notice this there is a warning about this, 
       at the 3rd warning you have a day ban, with the 3rd ban you get a full ban!
+  </li>
+
+  <li>
+    <strong>Power Gaming</strong><br>
+    Powergaming is forcing someone into a roleplay situation or roleplaying something impossible.
+    <br><br>
+    > For Example<br>
+    I pull the steering wheel. You can better type:  I'm trying to pull the steering wheel.
+
+    If we notice this there is a warning about this, 
+    at the 3rd warning you have a day ban, with the 3rd ban you get a full ban!
   </li>
 </ol>
