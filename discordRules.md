@@ -1,14 +1,8 @@
-<style>
-    li{
-        padding-bottom : 20px;
-    }
-</style>
-
 # gangLife Discord
 Discord Rules
 <ol>
   <li>
-        Be respectful<br>
+        > Be respectful<br>
         You must respect all users, regardless of your preference for them. Treat others as you would like to be treated yourself.
   </li>
 
