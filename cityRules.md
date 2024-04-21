@@ -20,10 +20,23 @@
       If we notice this there is a warning about this, 
       at the 3rd warning you have a day ban, with the 3rd ban you get a full ban!
   </li>
+  
   <li>
-      <strong>VDM (vehicle death match) is not allowed.</strong>
+      <strong>VDM (vehicle death match) is not allowed.</strong><br>
       When a player kills you with a vehicle for no reason in-game<br>
       
+      If we notice this there is a warning about this, 
+      at the 3rd warning you have a day ban, with the 3rd ban you get a full ban!
+  </li>
+
+  <li>
+      <strong>RDM (Random death match) is not allowed.</strong><br>
+      Means that someone randomly kills you, without any roleplay/ valid reason
+      <br><br>
+      > for example<br>
+      Mr Limbo randomly shoot you in the face with his Desert Eagle or<br>
+      an another kind of gun. Without any roleplay and/or reason behind it
+
       If we notice this there is a warning about this, 
       at the 3rd warning you have a day ban, with the 3rd ban you get a full ban!
   </li>
