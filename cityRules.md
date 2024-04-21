@@ -1,4 +1,6 @@
 # gangLife City Rules
+## gangLife City Rules
+### gangLife City Rules
 <ol>
   <li>
       Microphone is required<br>
@@ -12,6 +14,8 @@
       <strong>
         You talk at all times in the city (server).<br>
         You us in-game speech, telephone or a transceiver for this.
-      </strong><br><br>
+      </strong><br>
+      > For example
+      <br>
   </li>
 </ol>
