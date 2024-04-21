@@ -1,5 +1,4 @@
-# gangLifeRp
-City Rules
+# gangLife City Rules
 <ol>
   <li>
       Microphone is required<br>
