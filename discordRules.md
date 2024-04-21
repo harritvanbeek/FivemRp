@@ -1,5 +1,5 @@
-# gangLifeRp
-City Rules
+# gangLife Discord
+Discord Rules
 <ol>
   <li>
         Be respectful<br>
