@@ -190,7 +190,7 @@
   </li>
 
   <li>
-      <br><br><strong>Requirements Robberies</strong><br><br>
+    <strong>Requirements Robberies</strong><br><br>
 
       List of Possible robberys
         - Civilian Robberies: 2 Cops
@@ -200,12 +200,13 @@
         - Jewelery Robbery: Minimal 4 Cops and 1 Hostages and 2 members
         - Cop Hostage: 4 Cops
         - Train Heist: ? Cops
-        - Pacific Bank Robbery: Minimal ? Cops and ? Hostages    
+        - Pacific Bank Robbery: Minimal ? Cops and ? Hostages
+    
   </li>
 
 
   <li>
-      <br><br><strong>Streamer/ Content Creaters</strong><br>
+      <strong>Streamer/ Content Creaters</strong><br>
       Great that you want to stream! you can show everything.<br> 
       Keep in mind that people are watching, so if you don't want a location<br> 
       to become known like "drugs", "gang locations", "weapon locations",  blur your screen.
@@ -220,7 +221,7 @@
   </li>
 
   <li>
-        <br><br><strong>Reports in the city</strong><br>
+      <strong>Reports in the city</strong><br>
         Sometimes rule violations happen in the city. You can use /report for this in the city.<br> 
         Explain clearly what the problem is. Where possible also some video recordings.<br>
         Do not overuse this command. this will result in an appropriate punishment.
