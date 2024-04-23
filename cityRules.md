@@ -51,4 +51,13 @@
     If we notice this there is a warning about this, 
     at the 3rd warning you have a day ban, with the 3rd ban you get a full ban!
   </li>
+
+  <li>
+    <strong>Meta gaming/Streamsniping</strong><br>
+    When you've gotten information outside of role play, for example on discord.
+    <br><br>
+    
+    When we notice this, you'll first receive a warning, 
+    with the 3rd warning you will receive a day ban, with the 3rd ban you get a full ban!
+  </li>
 </ol>
