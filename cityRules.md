@@ -109,4 +109,99 @@
     incapacitated them if an actual player (typically EMS) physically transports <br>
     you to a hospital where you are treated and recover from you injuries
   </li>
+
+  <li>
+    <strong>Combat Logging</strong><br>
+    Combat logging is prohibited and is defined as when a player exits their game to avoid an RP.<br>    
+    > For example<br>
+    Exiting to avoid being arrested, charged with a crime, or while being booked in jail.<br>
+    Exiting to avoid getting robbed or kidnapped<br><br>
+
+    If we notice this there is a warning about this, 
+    at the 3rd warning you have a day ban, with the 3rd ban you get a full ban!
+  </li>
+
+  <li>
+    <strong>Leaving To Avoid Punishment</strong><br>
+    Leaving the server during a staff situation is not allowed. this will result into a ban.
+    <br><br>
+
+    If we notice this there is a warning about this, 
+    at the 3rd warning you have a day ban, with the 3rd ban you get a full ban!
+  </li>
+
+  <li>
+    <strong>Greenzone</strong><br>
+    Green zones are safe areas. You may only conduct passive RP in green zones, no crime or aggressive/violent RP<br>
+    If someone runs into the green zone to avoid an RP scenario that was started outside of the greenzone may still continue.<br>
+    <br><br>
+    List of Greenzones
+      - The staff area, which is located in the FIB building.      
+    <br><br>
+    If we notice this there is a warning about this, 
+    at the 3rd warning you have a day ban, with the 3rd ban you get a full ban!
+  </li>
+
+  <li>
+    <strong>Cop Baiting*</strong><br>
+    Cop baiting is prohibited, this is when your sole purpose is to attract the attention of the police with no gain to the development of your character.<br>
+    > For example<br>
+    Doing burnouts outside the police station to attract the police officers<br>
+    Purposely driving through an active scene and/or roadblocks<br>
+    <br><br>
+
+    If we notice this there is a warning about this, 
+    at the 3rd warning you have a day ban, with the 3rd ban you get a full ban!
+  </li>
+
+  <li>
+    <strong>Clothing Emergency services</strong><br>
+    It is forbidden to put clothing on from the emergency services if you do not work for the emergency services
+    <br><br>
+    If we notice this there is a warning about this, 
+    at the 3rd warning you have a day ban, with the 3rd ban you get a full ban!
+  </li>
+
+  <li>
+    <strong>Disrupting Events</strong><br>
+    It is forbidden to disrupt organized events. this will result in a ban.
+    <br><br>
+
+    If we notice this there is a warning about this, 
+    at the 3rd warning you have a day ban, with the 3rd ban you get a full ban!
+  </li>
+
+  <li>
+    <strong>Disrespectul Behavior</strong><br>
+    You are and remain respectful towards staff at all times, a discussion is allowed but keep it neat. <br>
+    You also respect certain limits towards other players, not everyone has the same amount of patience.<br> 
+    so keep it fun for everyone. After all, it is not allowed to swear with diseases<br><br>
+    
+    If we notice this there is a warning about this, 
+    at the 3rd warning you have a day ban, with the 3rd ban you get a full ban!
+  </li>
+
+  <li>
+    <strong>Recognizability</strong><br>
+    If a players wears a mask the can be recognized of the voice. If you want to be unrecognizable you must use a mask and voicechanger.
+    <br><br>
+    If we notice this there is a warning about this, 
+    at the 3rd warning you have a day ban, with the 3rd ban you get a full ban!
+  </li>
+
+  <li>
+    <strong>Requirements Robberies</strong><br><br>
+
+      List of Possible robberys
+        - Civilian Robberies: 2 Cops
+        - Shop Robbery:       2 Cops
+        - Citizen Hostage:    3 Cops
+        - Gas Station Robbery: Minimal 3 Cops and 1 Hostages and 2 members
+        - Jewelery Robbery: Minimal 4 Cops and 1 Hostages and 2 members
+        - Cop Hostage: 4 Cops
+        - Train Heist: ? Cops
+        - Pacific Bank Robbery: Minimal ? Cops and ? Hostages
+    
+  </li>
+
 </ol>
