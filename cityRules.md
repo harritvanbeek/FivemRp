@@ -216,13 +216,14 @@
       you run the risk of being stream sniped by people watching your stream.<br> 
       It is difficult for us to check whether this is really happening, so always make video evidence of this!
       <br><br>
-      How do you get into cannel <strong>⁠🎥｜content-creators</strong> on discord
+      How do you get into cannel <strong>⁠🎥｜content-creators</strong> on discord.<br>
       make sure you have: Grand Theft Auto V as your game and use: <strong>#ganglife</strong> in your title
   </li>
 
   <li>
       <strong>Reports in the city</strong><br>
-        Sometimes rule violations happen in the city. You can use /report for this in the city. Explain clearly what the problem is. Where possible also some video recordings.<br>
+        Sometimes rule violations happen in the city. You can use /report for this in the city.<br> 
+        Explain clearly what the problem is. Where possible also some video recordings.<br>
         Do not overuse this command. this will result in an appropriate punishment.
       <br><br>
       
