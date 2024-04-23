@@ -37,5 +37,5 @@ Access to purchasing firearms from gun dealers.<br><br>
 Total 5,000,000 euros.<br><br><br><br>
 
 
-Hopefully we have provided enough information,
+Hopefully we have provided enough information,<br>
 If you have any questions, you are always welcome in the support discord with your questions.
