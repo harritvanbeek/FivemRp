@@ -218,7 +218,7 @@
       <br><br>
       How do you get into cannel <strong>⁠🎥｜content-creators</strong> on discord.<br>
       make sure you have: Grand Theft Auto V as your game and use: <strong>#ganglife</strong> in your title
-      <br>
+      <br><br>
   </li>
 
   <li>
