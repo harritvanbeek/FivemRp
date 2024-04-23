@@ -204,4 +204,29 @@
     
   </li>
 
+
+  <li>
+      <strong>Streamer/ Content Creaters</strong><br><br>
+      Great that you want to stream! you can show everything.<br> 
+      Keep in mind that people are watching, so if you don't want a location<br> 
+      to become known like "drugs", "gang locations", "weapon locations",  blur your screen.
+      <br><br>
+      As a streamer you are an example of the city, so pay extra attention to<br>
+      the rules so that you do not break them. Because you stream,<br>
+      you run the risk of being stream sniped by people watching your stream.<br> 
+      It is difficult for us to check whether this is really happening, so always make video evidence of this!
+      <br><br>
+      How do you get into cannel <strong>⁠🎥｜content-creators</strong> on discord
+      make sure you have: Grand Theft Auto V as your game and use: <strong>#ganglife</strong> in your title
+  </li>
+
+  <li>
+      <strong>Reports in the city</strong><br>
+        Sometimes rule violations happen in the city. You can use /report for this in the city. Explain clearly what the problem is. Where possible also some video recordings.<br>
+        Do not overuse this command. this will result in an appropriate punishment.
+      <br><br>
+      
+      If we notice this there is a warning about this, 
+      at the 3rd warning you have a day ban, with the 3rd ban you get a full ban!
+  </li>
 </ol>
