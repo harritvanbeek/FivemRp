@@ -1,4 +1,4 @@
-# gangLife City Rules
+# City Rules
 <ol>
   <li>
       <strong>Microphone is required</strong><br>
