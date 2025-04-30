@@ -48,7 +48,7 @@ theme :
     - pymdownx.superfences
     - footnotes  
 
-#nav:
-#  - Home: index.md
-#  - Informatie: informatie.md    
-#  - Algemene Plaatselijke Verordening: apv.md    
+nav:
+  - Home: index.md
+  - Informatie: informatie.md    
+  - Algemene Plaatselijke Verordening: apv.md    
