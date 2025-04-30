@@ -1,1 +1,54 @@
-site_name: My Docs
+site_name: VibeCity Rolplay
+theme :
+  name: material
+  #logo: assets/logo.png
+  #favicon: images/favicon.png
+  
+  extra:
+    #homepage: https://www.novacity-rp.nl
+  
+  font:
+    text: Roboto
+  
+  palette: 
+    scheme: slate
+    primary: deep purple
+     
+        
+  features:
+      - navigation.instant
+      - navigation.instant.progress
+      - navigation.instant.preview
+      - navigation.tracking
+      - navigation.tabs
+      - navigation.tabs
+      - navigation.tabs.sticky
+      - navigation.sections
+      - navigation.expand
+      - navigation.top
+      - search.sugest
+      - search.highlight
+      - search.share
+      - content.tabs.link
+      - content.footnote.tooltips
+  
+  plugins:
+    - search
+    - tags
+    
+  markdown_extensions:
+    - pymdownx.critic
+    - pymdownx.caret
+    - pymdownx.keys
+    - pymdownx.mark
+    - pymdownx.tilde
+    - md_in_html
+    - tables
+    - def_list
+    - pymdownx.superfences
+    - footnotes  
+
+#nav:
+#  - Home: index.md
+#  - Informatie: informatie.md    
+#  - Algemene Plaatselijke Verordening: apv.md    
