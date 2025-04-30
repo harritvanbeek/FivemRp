@@ -1,17 +1,18 @@
-# Welcome to MkDocs
+---
+ hide:
+    - navigation    
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<h1>Wet- en Regelgeving VibeCity RolePlay</h1>
 
-## Commands
+Welkom op de pagina voor de Wet- en Regelgeving van VibeCity! Zorg ervoor, dat je voor je deelneemt aan VibeCity, kennis hebt genomen van deze wetten.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+De Algemene Plaatselijke Verordening (APV) bevat alle regels die niet te maken hebben met de Roleplay (dit zijn zogezegd de "server regels").
+<ul>
+    <li>Het Algemeen Wetboek VibeCity bevat alle wetten voor de burgers.</li>
+    <li>Alle overige documenten zijn specifiek bedoeld voor bepaalde zaken..</li>
+</ul>
 
-## Project layout
+# Officiële Discord Servers
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+VibeCity heeft veschillende discord servers die goed gekeurd zijn door de Hoge Raad hier kan je belangrijke informatie vinden:
