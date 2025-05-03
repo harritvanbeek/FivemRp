@@ -33,5 +33,5 @@ dan is het handig om even hier een tickert over aan te maken.
        doodsbedreigingen, Doxen, misbruik en andere kwaadaardige dreigementen zijn absoluut niet toegestaan.
 
 8. **Volg de Discord Community Richtlijnen**
-    - Je kunt de Discord community richtlijnen hier <a herf="https://discord.com/guidelines" target="_blank">vinden</a>
+    - Je kunt de Discord community richtlijnen hier <a href="https://discord.com/guidelines" target="_blank">vinden</a>
     
